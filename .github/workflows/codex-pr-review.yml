@@ -233,3 +233,5 @@ jobs:
           prompt-file: .github/prompts/codex-pr-review.md
           allow-bots: true
           allow-users: '*'
+
+# verified on a controlled fork
